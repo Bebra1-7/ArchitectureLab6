@@ -1,0 +1,14 @@
+C:\Users\grigo\Documents\ArchitectureLab6\bin\Debug\net10.0\ArchitectureLab6.exe
+C:\Users\grigo\Documents\ArchitectureLab6\bin\Debug\net10.0\ArchitectureLab6.deps.json
+C:\Users\grigo\Documents\ArchitectureLab6\bin\Debug\net10.0\ArchitectureLab6.runtimeconfig.json
+C:\Users\grigo\Documents\ArchitectureLab6\bin\Debug\net10.0\ArchitectureLab6.dll
+C:\Users\grigo\Documents\ArchitectureLab6\bin\Debug\net10.0\ArchitectureLab6.pdb
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.AssemblyInfoInputs.cache
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.AssemblyInfo.cs
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.csproj.CoreCompileInputs.cache
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.dll
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\refint\ArchitectureLab6.dll
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.pdb
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ArchitectureLab6.genruntimeconfig.cache
+C:\Users\grigo\Documents\ArchitectureLab6\obj\Debug\net10.0\ref\ArchitectureLab6.dll
